@@ -1,0 +1,47 @@
+baseURL = 'https://sdnsondo.github.io/'
+languageCode = 'en'
+title = 'SD Negeri Sondo'
+theme = 'hugo-theme-chunky-poster'
+
+paginate = 2
+copyright = "Copyright © 2020–2021, SD Negeri Sondo all rights reserved."
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 0
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+author = "authors"
+
+
+[params]
+  author = "Admin"
+  description = "Unggul Dalam Mutu, Teruji Dalam Prestasi."
+  homepageImage = "/images/homepage-image.png"
+  dateFormat = "January 2, 2006"
+  share = true
+  showLanguageSwitcher = false
+
+  customCSS = []
+  customJS = []
+  
+  [params.prismJS]
+    enable = true
+    theme = ""
+
+[markup]
+  [markup.highlight]
+    codeFences = false
