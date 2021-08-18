@@ -13,12 +13,17 @@ footnoteReturnLinkContents = "^"
     identifier = "home"
     name = "Home"
     url = "/"
-    weight = 10
+    weight = 1
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 0
+    identifier = "visi-misi"
+    name = "Visi Misi"
+    url = "/visi-misi/"
+    weight = 2
+  [[menu.main]]
+    identifier = "tentang-kami"
+    name = "Tentang Kami"
+    url = "/tentang-kami/"
+    weight = 3
 
 [taxonomies]
 category = "categories"
@@ -40,7 +45,7 @@ author = "authors"
   
   [params.prismJS]
     enable = true
-    theme = ""
+    theme = "okaidia"
 
 [markup]
   [markup.highlight]
