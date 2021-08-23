@@ -1,7 +1,7 @@
 baseURL = 'https://sdnsondo.github.io/'
 languageCode = 'en'
 title = 'SD Negeri Sondo'
-theme = 'hugo-theme-chunky-poster'
+theme = 'sondo'
 
 paginate = 2
 copyright = "Copyright © 2020–2021, SD Negeri Sondo all rights reserved."
@@ -18,19 +18,18 @@ footnoteReturnLinkContents = "^"
     identifier = "visi-misi"
     name = "Visi Misi"
     url = "/visi-misi/"
-    weight = 2
-  [[menu.main]]
-    identifier = "tentang-kami"
-    name = "Tentang Kami"
-    url = "/tentang-kami/"
     weight = 3
+  [[menu.main]]
+    identifier = "artikel"
+    name = "Artikel"
+    url = "/artikel"
+    weight = 2
 
 [taxonomies]
 category = "categories"
 tag = "tags"
 series = "series"
 author = "authors"
-
 
 [params]
   author = "Admin"
