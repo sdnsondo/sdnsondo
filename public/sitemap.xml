@@ -1,23 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
-    <loc>https://sdnsondo.github.io/tentang-kami/</loc>
+    <loc>https://sdnsondo.github.io/sambutan-kepsek/</loc>
     <lastmod>2021-08-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sdnsondo.github.io/visi-misi/</loc>
     <lastmod>2021-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sdnsondo.github.io/authors/admin/</loc>
-  </url><url>
-    <loc>https://sdnsondo.github.io/authors/</loc>
-  </url><url>
-    <loc>https://sdnsondo.github.io/categories/</loc>
-  </url><url>
-    <loc>https://sdnsondo.github.io/</loc>
-  </url><url>
-    <loc>https://sdnsondo.github.io/series/</loc>
-  </url><url>
-    <loc>https://sdnsondo.github.io/tags/</loc>
   </url>
+  
+  <url>
+    <loc>https://sdnsondo.github.io/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sdnsondo.github.io/authors/admin/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sdnsondo.github.io/posts/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sdnsondo.github.io/authors/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sdnsondo.github.io/tags/gerak-jalan/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sdnsondo.github.io/posts/gerak-jalan/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sdnsondo.github.io/tags/kegitan-siswa/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sdnsondo.github.io/tags/siswa/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sdnsondo.github.io/tags/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sdnsondo.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sdnsondo.github.io/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sdnsondo.github.io/series/</loc>
+  </url>
+  
 </urlset>
