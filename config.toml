@@ -1,4 +1,4 @@
-baseURL = 'http://sdnsondo.sch.id'
+baseURL = 'https://sdnsondo.github.io/'
 languageCode = 'en'
 title = 'SD Negeri Sondo'
 theme = 'sondo'

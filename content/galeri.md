@@ -2,7 +2,7 @@
 title = "Galeri SD Negeri Sondo"
 description = "Galeri SD Negeri Sondo"
 date = "2021-08-25"
-aliases = ["galery", "sdn sondo", "siswasdnsondomonta"]
+aliases = ["galeri"]
 author = "Admin"
 +++
 

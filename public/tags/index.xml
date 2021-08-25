@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SD Negeri Sondo</title>
-    <link>http://sdnsondo.sch.id/tags/</link>
+    <link>https://sdnsondo.github.io/tags/</link>
     <description>Recent content in Tags on SD Negeri Sondo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020–2021, SD Negeri Sondo all rights reserved.</copyright>
-    <lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://sdnsondo.sch.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sdnsondo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>gerak jalan</title>
-      <link>http://sdnsondo.sch.id/tags/gerak-jalan/</link>
+      <link>https://sdnsondo.github.io/tags/gerak-jalan/</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://sdnsondo.sch.id/tags/gerak-jalan/</guid>
+      <guid>https://sdnsondo.github.io/tags/gerak-jalan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kegitan siswa</title>
-      <link>http://sdnsondo.sch.id/tags/kegitan-siswa/</link>
+      <link>https://sdnsondo.github.io/tags/kegitan-siswa/</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://sdnsondo.sch.id/tags/kegitan-siswa/</guid>
+      <guid>https://sdnsondo.github.io/tags/kegitan-siswa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>siswa</title>
-      <link>http://sdnsondo.sch.id/tags/siswa/</link>
+      <link>https://sdnsondo.github.io/tags/siswa/</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://sdnsondo.sch.id/tags/siswa/</guid>
+      <guid>https://sdnsondo.github.io/tags/siswa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>http://sdnsondo.sch.id/tags/index/</link>
+      <link>https://sdnsondo.github.io/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sdnsondo.sch.id/tags/index/</guid>
+      <guid>https://sdnsondo.github.io/tags/index/</guid>
       <description></description>
     </item>
     
