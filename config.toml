@@ -15,15 +15,20 @@ footnoteReturnLinkContents = "^"
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "visi-misi"
-    name = "Visi Misi"
-    url = "/visi-misi/"
-    weight = 3
-  [[menu.main]]
     identifier = "artikel"
     name = "Artikel"
     url = "/artikel"
     weight = 2
+  [[menu.main]]
+    identifier = "galeri"
+    name = "Galeri"
+    url = "/galeri"
+    weight = 3
+  [[menu.main]]
+    identifier = "visi-misi"
+    name = "Visi Misi"
+    url = "/visi-misi/"
+    weight = 4
 
 [taxonomies]
 category = "categories"
