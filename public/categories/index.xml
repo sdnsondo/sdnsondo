@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on SD Negeri Sondo</title>
-    <link>https://sdnsondo.github.io/categories/</link>
+    <link>http://sdnsondo.sch.id/categories/</link>
     <description>Recent content in Categories on SD Negeri Sondo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2020–2021, SD Negeri Sondo all rights reserved.</copyright><atom:link href="https://sdnsondo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2020–2021, SD Negeri Sondo all rights reserved.</copyright><atom:link href="http://sdnsondo.sch.id/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
