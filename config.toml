@@ -27,7 +27,7 @@ footnoteReturnLinkContents = "^"
   [[menu.main]]
     identifier = "visi-misi"
     name = "Visi Misi"
-    url = "/visi-misi/"
+    url = "/visi-misi"
     weight = 4
 
 [taxonomies]
