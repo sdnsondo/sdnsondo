@@ -19,3 +19,6 @@ author = "Admin"
 {{< figure src="11.jpeg" >}}
 {{< figure src="12.jpeg" >}}
 {{< figure src="13.jpeg" >}}
+{{< figure src="14.jpeg" >}}
+{{< figure src="15.jpeg" >}}
+{{< figure src="16.jpeg" >}}

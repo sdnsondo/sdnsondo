@@ -39,7 +39,7 @@ author = "authors"
 [params]
   author = "Admin"
   description = "Unggul Dalam Mutu, Teruji Dalam Prestasi."
-  homepageImage = "/images/homepage-image.png"
+  homepageImage = "/images/homepage.png"
   dateFormat = "January 2, 2006"
   share = true
   showLanguageSwitcher = false
